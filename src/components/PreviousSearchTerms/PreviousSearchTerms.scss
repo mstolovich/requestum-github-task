@@ -1,0 +1,16 @@
+#previousSearchTermsList{
+    display: flex;
+    flex-direction: column;
+    h4{
+        color: white;
+        @media screen and (max-width: 600px) {
+            margin: 10px;          
+        }
+    }
+    ul{
+        list-style-type: none;
+        color: white;
+        padding: 5px;
+        margin: 5px;
+    }
+}

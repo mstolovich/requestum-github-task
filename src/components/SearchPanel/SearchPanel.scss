@@ -1,0 +1,8 @@
+#searchPanel {
+    display: flex;
+    flex-direction: column;
+    width: 25%;
+    @media screen and (max-width: 600px) {
+        width: 100%;
+    }
+}

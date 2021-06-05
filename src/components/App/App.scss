@@ -1,0 +1,15 @@
+.App{
+  width: 80%;
+  margin: 100px auto;
+  @media screen and (max-width: 600px) {
+    width: 90%;
+    margin: 30px auto;
+  }
+}
+
+#appContainer{
+  display: flex;
+  @media screen and (max-width: 600px) {
+    flex-direction: column;
+  }
+}
