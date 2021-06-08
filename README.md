@@ -3,13 +3,18 @@
 This app searches through repositories on GitHub. 
 Main stack: `React`, `Redux`, `TypeScript`
 
+# Demo
+https://requestumgithubsearch.netlify.app
+
 # Quick Start
 
 1. Download the repo.
 2. Go to the project repo.
 3. Run `yarn` or `npm i` in terminal to install dependencies.
 4. Run `yarn start` or `npm start`.
-5. Now you can view the application at [http://localhost:3000](http://localhost:3000)
+5. Now you can view the application at [http://localhost:3000](http://localhost:3000)  
+
+
 
 # Getting Started with Create React App
 
